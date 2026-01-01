@@ -1,5 +1,5 @@
 // Application constants
-export const APP_NAME = "MakerGhat HRMS";
+export const APP_NAME = "Think Forge HRMS";
 
 // State code to full name mapping
 export const STATE_CODE_MAP: Record<string, string> = {

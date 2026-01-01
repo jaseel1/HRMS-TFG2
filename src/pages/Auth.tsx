@@ -115,7 +115,7 @@ export default function Auth() {
       <div className="w-full max-w-md animate-fade-in">
         <div className="mb-8 text-center">
           <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-primary text-primary-foreground">
-            <span className="text-xl font-bold">MG</span>
+            <span className="text-xl font-bold">TFG</span>
           </div>
           <h1 className="text-2xl font-bold text-foreground">{APP_NAME}</h1>
           <p className="mt-2 text-muted-foreground">Manage your leave and HR needs</p>

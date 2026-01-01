@@ -21,7 +21,7 @@ export default function Index() {
     <div className="flex min-h-screen items-center justify-center bg-background">
       <div className="flex flex-col items-center gap-4">
         <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-primary text-primary-foreground">
-          <span className="text-xl font-bold">MG</span>
+          <span className="text-xl font-bold">TFG</span>
         </div>
         <h1 className="text-xl font-semibold">{APP_NAME}</h1>
         <div className="h-6 w-6 animate-spin rounded-full border-2 border-primary border-t-transparent" />
